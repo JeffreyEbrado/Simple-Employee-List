@@ -4,7 +4,7 @@
 
 1. **Employee Information Listing:**
    - Display a comprehensive list of employees.
-   - Include key details such as name, contact information, position, and department.
+   - Include key details such as name, contact information, position, and address.
    - No authentication required for access.
 
 ## Getting Started
