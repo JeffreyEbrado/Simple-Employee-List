@@ -59,7 +59,7 @@ public class EmployeeView {
 
         JPanel empViewPanel = new JPanel();
         empViewPanel.setBounds(170,20,490,435);
-        empViewPanel.setBackground(new Color(166, 159, 141));
+        empViewPanel.setBackground(new Color(143, 133, 121));
         empViewPanel.setVisible(true);
         empViewPanel.setLayout(null);
         frame.add(empViewPanel);
